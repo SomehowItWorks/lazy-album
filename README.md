@@ -38,7 +38,7 @@ This is an Obsidian plugin that displays images in a Masonry (Waterfall) Layout.
 ### Template  
 Paste this into your code block to get started. Add your sources under the "list:" part
 
-*to create a code block, start by typing two rows of ``` and put the code in between*
+(to create a code block, start by typing two rows of ``` and put the code in between)
 
 ```lazy-album
 columns: 2
@@ -96,7 +96,7 @@ https://i.pinimg.com/736x/9b/f0/db/9bf0db553e945a8f1691576628378d80.jpg | A Clim
 ### 模板代码
 启用插件后，您可以把下面这段代码直接粘贴到您的代码块。在 list: 下添加图片来源即可。
 
-ℹ️要创建代码块，输入两行```，并将代码放在两行中间。
+(要创建代码块，输入两行```，并将代码放在两行中间。)
 
 ```lazy-album
 columns: 2
